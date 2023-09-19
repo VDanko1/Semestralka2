@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Semestralna Praca druhy pokus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Semestralna_Praca_druhy_pokus_jar</output-path>
+    <root id="archive" name="Semestralna Praca druhy pokus.jar">
+      <element id="module-output" name="Semestralna Praca druhy pokus" />
+    </root>
+  </artifact>
+</component>
